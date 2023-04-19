@@ -1,0 +1,51 @@
+[
+    {
+      "picture": "images/Picture5.jpg",
+      "age": 19,
+      "eyeColor": "hazel",
+      "name": "Melany",
+      "gender": "female"
+    },
+    {
+      "picture": "images/Picture2.jpg",
+      "age": 22,
+      "eyeColor": "blue",
+      "name": "Luc",
+      "gender": "male"
+    },
+    {
+      "picture": "images/Picture1.jpg",
+      "age": 28,
+      "eyeColor": "blue",
+      "name": "Tim",
+      "gender": "male"
+    },
+    {
+      "picture": "images/Picture3.jpg",
+      "age": 20,
+      "eyeColor": "brown",
+      "name": "Aadira",
+      "gender": "female"
+    },
+    {
+      "picture": "images/Picture4.jpg",
+      "age": 20,
+      "eyeColor": "blue",
+      "name": "Rob",
+      "gender": "male"
+    },
+    {
+      "picture": "images/Picture6.jpg",
+      "age": 25,
+      "eyeColor": "blue",
+      "name": "Fleur",
+      "gender": "female"
+    },
+    {
+      "picture": "images/Picture7.jpg",
+      "age": 26,
+      "eyeColor": "green",
+      "name": "Yvonne",
+      "gender": "female"
+    }
+  ]
