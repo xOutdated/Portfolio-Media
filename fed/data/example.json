@@ -1,0 +1,37 @@
+[
+    {
+      "picture": "data/Picture1.png",
+      "age": 19,
+      "eyeColor": "hazel",
+      "name": "Melany",
+      "gender": "female"
+    },
+    {
+      "picture": "http://placehold.it/32x32",
+      "age": 22,
+      "eyeColor": "blue",
+      "name": "Luc",
+      "gender": "male"
+    },
+    {
+      "picture": "http://placehold.it/32x32",
+      "age": 28,
+      "eyeColor": "blue",
+      "name": "Tim",
+      "gender": "male"
+    },
+    {
+      "picture": "http://placehold.it/32x32",
+      "age": 20,
+      "eyeColor": "brown",
+      "name": "Aadira",
+      "gender": "female"
+    },
+    {
+      "picture": "http://placehold.it/32x32",
+      "age": 20,
+      "eyeColor": "blue",
+      "name": "Rob",
+      "gender": "male"
+    }
+  ]
